@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Listas</string>
+
+    <!--Tela principal-->
+    <string name="menu_titulo">Escolha uma opção para demostração de uso de listas</string>
+    <string name="menu_listaSimples">Lista simples</string>
+    <string name="menu_listaPerson">Lista personalizada</string>
+
+    <!--Tela de listagem personalizada-->
+    <string name="list_person_titulo">Listagem de produtos</string>
+
+    <!--Linha-->
+    <string name="titulo_linha">título produto</string>
+    <string name="descri_linha">descrição produto</string>
+
+    <!--Tela de lista simples-->
+    <string name="listaS_titulo">Marcas de carros</string>
+    <string-array name="listaS_marcas">
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Chery</item>
+        <item>Citroen</item>
+        <item>Dodge</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Chevrolet</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Jac Motors</item>
+        <item>Jeep</item>
+        <item>Kia</item>
+        <item>Nissan</item>
+        <item>Renault</item>
+    </string-array>
+</resources>
