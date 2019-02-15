@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="texto_fragment_A">A</string>
+    <string name="texto_fragment_b">B</string>
+    <string name="texto_fragment_c">C</string>
+
+</resources>
